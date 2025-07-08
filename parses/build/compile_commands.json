@@ -1,0 +1,82 @@
+[
+{
+  "directory": "/home/cake_eater420/Documents/mdnoteapp/parses/build",
+  "command": "/usr/bin/c++  -I/home/cake_eater420/Documents/mdnoteapp/parses/includes -g -std=gnu++17 -o CMakeFiles/mdparser.dir/main.cpp.o -c /home/cake_eater420/Documents/mdnoteapp/parses/main.cpp",
+  "file": "/home/cake_eater420/Documents/mdnoteapp/parses/main.cpp"
+},
+{
+  "directory": "/home/cake_eater420/Documents/mdnoteapp/parses/build",
+  "command": "/usr/bin/c++  -I/home/cake_eater420/Documents/mdnoteapp/parses/includes -g -std=gnu++17 -o CMakeFiles/mdparser.dir/src/bold.cpp.o -c /home/cake_eater420/Documents/mdnoteapp/parses/src/bold.cpp",
+  "file": "/home/cake_eater420/Documents/mdnoteapp/parses/src/bold.cpp"
+},
+{
+  "directory": "/home/cake_eater420/Documents/mdnoteapp/parses/build",
+  "command": "/usr/bin/c++  -I/home/cake_eater420/Documents/mdnoteapp/parses/includes -g -std=gnu++17 -o CMakeFiles/mdparser.dir/src/boldnitalic.cpp.o -c /home/cake_eater420/Documents/mdnoteapp/parses/src/boldnitalic.cpp",
+  "file": "/home/cake_eater420/Documents/mdnoteapp/parses/src/boldnitalic.cpp"
+},
+{
+  "directory": "/home/cake_eater420/Documents/mdnoteapp/parses/build",
+  "command": "/usr/bin/c++  -I/home/cake_eater420/Documents/mdnoteapp/parses/includes -g -std=gnu++17 -o CMakeFiles/mdparser.dir/src/code.cpp.o -c /home/cake_eater420/Documents/mdnoteapp/parses/src/code.cpp",
+  "file": "/home/cake_eater420/Documents/mdnoteapp/parses/src/code.cpp"
+},
+{
+  "directory": "/home/cake_eater420/Documents/mdnoteapp/parses/build",
+  "command": "/usr/bin/c++  -I/home/cake_eater420/Documents/mdnoteapp/parses/includes -g -std=gnu++17 -o CMakeFiles/mdparser.dir/src/emojis.cpp.o -c /home/cake_eater420/Documents/mdnoteapp/parses/src/emojis.cpp",
+  "file": "/home/cake_eater420/Documents/mdnoteapp/parses/src/emojis.cpp"
+},
+{
+  "directory": "/home/cake_eater420/Documents/mdnoteapp/parses/build",
+  "command": "/usr/bin/c++  -I/home/cake_eater420/Documents/mdnoteapp/parses/includes -g -std=gnu++17 -o CMakeFiles/mdparser.dir/src/escape.cpp.o -c /home/cake_eater420/Documents/mdnoteapp/parses/src/escape.cpp",
+  "file": "/home/cake_eater420/Documents/mdnoteapp/parses/src/escape.cpp"
+},
+{
+  "directory": "/home/cake_eater420/Documents/mdnoteapp/parses/build",
+  "command": "/usr/bin/c++  -I/home/cake_eater420/Documents/mdnoteapp/parses/includes -g -std=gnu++17 -o CMakeFiles/mdparser.dir/src/header.cpp.o -c /home/cake_eater420/Documents/mdnoteapp/parses/src/header.cpp",
+  "file": "/home/cake_eater420/Documents/mdnoteapp/parses/src/header.cpp"
+},
+{
+  "directory": "/home/cake_eater420/Documents/mdnoteapp/parses/build",
+  "command": "/usr/bin/c++  -I/home/cake_eater420/Documents/mdnoteapp/parses/includes -g -std=gnu++17 -o CMakeFiles/mdparser.dir/src/hrule.cpp.o -c /home/cake_eater420/Documents/mdnoteapp/parses/src/hrule.cpp",
+  "file": "/home/cake_eater420/Documents/mdnoteapp/parses/src/hrule.cpp"
+},
+{
+  "directory": "/home/cake_eater420/Documents/mdnoteapp/parses/build",
+  "command": "/usr/bin/c++  -I/home/cake_eater420/Documents/mdnoteapp/parses/includes -g -std=gnu++17 -o CMakeFiles/mdparser.dir/src/image.cpp.o -c /home/cake_eater420/Documents/mdnoteapp/parses/src/image.cpp",
+  "file": "/home/cake_eater420/Documents/mdnoteapp/parses/src/image.cpp"
+},
+{
+  "directory": "/home/cake_eater420/Documents/mdnoteapp/parses/build",
+  "command": "/usr/bin/c++  -I/home/cake_eater420/Documents/mdnoteapp/parses/includes -g -std=gnu++17 -o CMakeFiles/mdparser.dir/src/italic.cpp.o -c /home/cake_eater420/Documents/mdnoteapp/parses/src/italic.cpp",
+  "file": "/home/cake_eater420/Documents/mdnoteapp/parses/src/italic.cpp"
+},
+{
+  "directory": "/home/cake_eater420/Documents/mdnoteapp/parses/build",
+  "command": "/usr/bin/c++  -I/home/cake_eater420/Documents/mdnoteapp/parses/includes -g -std=gnu++17 -o CMakeFiles/mdparser.dir/src/linebreak.cpp.o -c /home/cake_eater420/Documents/mdnoteapp/parses/src/linebreak.cpp",
+  "file": "/home/cake_eater420/Documents/mdnoteapp/parses/src/linebreak.cpp"
+},
+{
+  "directory": "/home/cake_eater420/Documents/mdnoteapp/parses/build",
+  "command": "/usr/bin/c++  -I/home/cake_eater420/Documents/mdnoteapp/parses/includes -g -std=gnu++17 -o CMakeFiles/mdparser.dir/src/link.cpp.o -c /home/cake_eater420/Documents/mdnoteapp/parses/src/link.cpp",
+  "file": "/home/cake_eater420/Documents/mdnoteapp/parses/src/link.cpp"
+},
+{
+  "directory": "/home/cake_eater420/Documents/mdnoteapp/parses/build",
+  "command": "/usr/bin/c++  -I/home/cake_eater420/Documents/mdnoteapp/parses/includes -g -std=gnu++17 -o CMakeFiles/mdparser.dir/src/olist.cpp.o -c /home/cake_eater420/Documents/mdnoteapp/parses/src/olist.cpp",
+  "file": "/home/cake_eater420/Documents/mdnoteapp/parses/src/olist.cpp"
+},
+{
+  "directory": "/home/cake_eater420/Documents/mdnoteapp/parses/build",
+  "command": "/usr/bin/c++  -I/home/cake_eater420/Documents/mdnoteapp/parses/includes -g -std=gnu++17 -o CMakeFiles/mdparser.dir/src/quote.cpp.o -c /home/cake_eater420/Documents/mdnoteapp/parses/src/quote.cpp",
+  "file": "/home/cake_eater420/Documents/mdnoteapp/parses/src/quote.cpp"
+},
+{
+  "directory": "/home/cake_eater420/Documents/mdnoteapp/parses/build",
+  "command": "/usr/bin/c++  -I/home/cake_eater420/Documents/mdnoteapp/parses/includes -g -std=gnu++17 -o CMakeFiles/mdparser.dir/src/ulist.cpp.o -c /home/cake_eater420/Documents/mdnoteapp/parses/src/ulist.cpp",
+  "file": "/home/cake_eater420/Documents/mdnoteapp/parses/src/ulist.cpp"
+},
+{
+  "directory": "/home/cake_eater420/Documents/mdnoteapp/parses/build",
+  "command": "/usr/bin/c++  -I/home/cake_eater420/Documents/mdnoteapp/parses/includes -g -std=gnu++17 -o CMakeFiles/mdparser.dir/src/mdparser.cpp.o -c /home/cake_eater420/Documents/mdnoteapp/parses/src/mdparser.cpp",
+  "file": "/home/cake_eater420/Documents/mdnoteapp/parses/src/mdparser.cpp"
+}
+]

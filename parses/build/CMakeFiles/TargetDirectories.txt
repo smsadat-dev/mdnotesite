@@ -1,0 +1,3 @@
+/home/cake_eater420/Documents/mdnoteapp/parses/build/CMakeFiles/mdparser.dir
+/home/cake_eater420/Documents/mdnoteapp/parses/build/CMakeFiles/edit_cache.dir
+/home/cake_eater420/Documents/mdnoteapp/parses/build/CMakeFiles/rebuild_cache.dir
