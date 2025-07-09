@@ -81,12 +81,12 @@ clean: CMakeFiles/mdparser.dir/clean
 CMakeFiles/mdparser.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/mdparser.dir/build.make CMakeFiles/mdparser.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/mdparser.dir/build.make CMakeFiles/mdparser.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/cake_eater420/Documents/mdnoteapp/parses/build/CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25 "Built target mdparser"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/cake_eater420/Documents/mdnoteapp/parses/build/CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9,10,11,12,13,14,15 "Built target mdparser"
 .PHONY : CMakeFiles/mdparser.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/mdparser.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/cake_eater420/Documents/mdnoteapp/parses/build/CMakeFiles 25
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/cake_eater420/Documents/mdnoteapp/parses/build/CMakeFiles 15
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/mdparser.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/cake_eater420/Documents/mdnoteapp/parses/build/CMakeFiles 0
 .PHONY : CMakeFiles/mdparser.dir/rule

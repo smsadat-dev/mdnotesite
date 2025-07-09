@@ -19,7 +19,7 @@ std::string parseHeaders(std::string content)
     }
     else 
     {
-        output = "<p>" + content + "</p>";
+        output = content;
     }
     return output;
 }

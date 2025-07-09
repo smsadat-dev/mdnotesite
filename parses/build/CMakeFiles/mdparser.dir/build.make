@@ -111,24 +111,10 @@ CMakeFiles/mdparser.dir/src/boldnitalic.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/mdparser.dir/src/boldnitalic.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/cake_eater420/Documents/mdnoteapp/parses/src/boldnitalic.cpp -o CMakeFiles/mdparser.dir/src/boldnitalic.cpp.s
 
-CMakeFiles/mdparser.dir/src/callouts.cpp.o: CMakeFiles/mdparser.dir/flags.make
-CMakeFiles/mdparser.dir/src/callouts.cpp.o: /home/cake_eater420/Documents/mdnoteapp/parses/src/callouts.cpp
-CMakeFiles/mdparser.dir/src/callouts.cpp.o: CMakeFiles/mdparser.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/cake_eater420/Documents/mdnoteapp/parses/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/mdparser.dir/src/callouts.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/mdparser.dir/src/callouts.cpp.o -MF CMakeFiles/mdparser.dir/src/callouts.cpp.o.d -o CMakeFiles/mdparser.dir/src/callouts.cpp.o -c /home/cake_eater420/Documents/mdnoteapp/parses/src/callouts.cpp
-
-CMakeFiles/mdparser.dir/src/callouts.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/mdparser.dir/src/callouts.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/cake_eater420/Documents/mdnoteapp/parses/src/callouts.cpp > CMakeFiles/mdparser.dir/src/callouts.cpp.i
-
-CMakeFiles/mdparser.dir/src/callouts.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/mdparser.dir/src/callouts.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/cake_eater420/Documents/mdnoteapp/parses/src/callouts.cpp -o CMakeFiles/mdparser.dir/src/callouts.cpp.s
-
 CMakeFiles/mdparser.dir/src/code.cpp.o: CMakeFiles/mdparser.dir/flags.make
 CMakeFiles/mdparser.dir/src/code.cpp.o: /home/cake_eater420/Documents/mdnoteapp/parses/src/code.cpp
 CMakeFiles/mdparser.dir/src/code.cpp.o: CMakeFiles/mdparser.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/cake_eater420/Documents/mdnoteapp/parses/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/mdparser.dir/src/code.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/cake_eater420/Documents/mdnoteapp/parses/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/mdparser.dir/src/code.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/mdparser.dir/src/code.cpp.o -MF CMakeFiles/mdparser.dir/src/code.cpp.o.d -o CMakeFiles/mdparser.dir/src/code.cpp.o -c /home/cake_eater420/Documents/mdnoteapp/parses/src/code.cpp
 
 CMakeFiles/mdparser.dir/src/code.cpp.i: cmake_force
@@ -139,66 +125,10 @@ CMakeFiles/mdparser.dir/src/code.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/mdparser.dir/src/code.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/cake_eater420/Documents/mdnoteapp/parses/src/code.cpp -o CMakeFiles/mdparser.dir/src/code.cpp.s
 
-CMakeFiles/mdparser.dir/src/definitionlist.cpp.o: CMakeFiles/mdparser.dir/flags.make
-CMakeFiles/mdparser.dir/src/definitionlist.cpp.o: /home/cake_eater420/Documents/mdnoteapp/parses/src/definitionlist.cpp
-CMakeFiles/mdparser.dir/src/definitionlist.cpp.o: CMakeFiles/mdparser.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/cake_eater420/Documents/mdnoteapp/parses/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/mdparser.dir/src/definitionlist.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/mdparser.dir/src/definitionlist.cpp.o -MF CMakeFiles/mdparser.dir/src/definitionlist.cpp.o.d -o CMakeFiles/mdparser.dir/src/definitionlist.cpp.o -c /home/cake_eater420/Documents/mdnoteapp/parses/src/definitionlist.cpp
-
-CMakeFiles/mdparser.dir/src/definitionlist.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/mdparser.dir/src/definitionlist.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/cake_eater420/Documents/mdnoteapp/parses/src/definitionlist.cpp > CMakeFiles/mdparser.dir/src/definitionlist.cpp.i
-
-CMakeFiles/mdparser.dir/src/definitionlist.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/mdparser.dir/src/definitionlist.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/cake_eater420/Documents/mdnoteapp/parses/src/definitionlist.cpp -o CMakeFiles/mdparser.dir/src/definitionlist.cpp.s
-
-CMakeFiles/mdparser.dir/src/emojis.cpp.o: CMakeFiles/mdparser.dir/flags.make
-CMakeFiles/mdparser.dir/src/emojis.cpp.o: /home/cake_eater420/Documents/mdnoteapp/parses/src/emojis.cpp
-CMakeFiles/mdparser.dir/src/emojis.cpp.o: CMakeFiles/mdparser.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/cake_eater420/Documents/mdnoteapp/parses/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/mdparser.dir/src/emojis.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/mdparser.dir/src/emojis.cpp.o -MF CMakeFiles/mdparser.dir/src/emojis.cpp.o.d -o CMakeFiles/mdparser.dir/src/emojis.cpp.o -c /home/cake_eater420/Documents/mdnoteapp/parses/src/emojis.cpp
-
-CMakeFiles/mdparser.dir/src/emojis.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/mdparser.dir/src/emojis.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/cake_eater420/Documents/mdnoteapp/parses/src/emojis.cpp > CMakeFiles/mdparser.dir/src/emojis.cpp.i
-
-CMakeFiles/mdparser.dir/src/emojis.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/mdparser.dir/src/emojis.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/cake_eater420/Documents/mdnoteapp/parses/src/emojis.cpp -o CMakeFiles/mdparser.dir/src/emojis.cpp.s
-
-CMakeFiles/mdparser.dir/src/escape.cpp.o: CMakeFiles/mdparser.dir/flags.make
-CMakeFiles/mdparser.dir/src/escape.cpp.o: /home/cake_eater420/Documents/mdnoteapp/parses/src/escape.cpp
-CMakeFiles/mdparser.dir/src/escape.cpp.o: CMakeFiles/mdparser.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/cake_eater420/Documents/mdnoteapp/parses/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/mdparser.dir/src/escape.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/mdparser.dir/src/escape.cpp.o -MF CMakeFiles/mdparser.dir/src/escape.cpp.o.d -o CMakeFiles/mdparser.dir/src/escape.cpp.o -c /home/cake_eater420/Documents/mdnoteapp/parses/src/escape.cpp
-
-CMakeFiles/mdparser.dir/src/escape.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/mdparser.dir/src/escape.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/cake_eater420/Documents/mdnoteapp/parses/src/escape.cpp > CMakeFiles/mdparser.dir/src/escape.cpp.i
-
-CMakeFiles/mdparser.dir/src/escape.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/mdparser.dir/src/escape.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/cake_eater420/Documents/mdnoteapp/parses/src/escape.cpp -o CMakeFiles/mdparser.dir/src/escape.cpp.s
-
-CMakeFiles/mdparser.dir/src/footnote.cpp.o: CMakeFiles/mdparser.dir/flags.make
-CMakeFiles/mdparser.dir/src/footnote.cpp.o: /home/cake_eater420/Documents/mdnoteapp/parses/src/footnote.cpp
-CMakeFiles/mdparser.dir/src/footnote.cpp.o: CMakeFiles/mdparser.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/cake_eater420/Documents/mdnoteapp/parses/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/mdparser.dir/src/footnote.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/mdparser.dir/src/footnote.cpp.o -MF CMakeFiles/mdparser.dir/src/footnote.cpp.o.d -o CMakeFiles/mdparser.dir/src/footnote.cpp.o -c /home/cake_eater420/Documents/mdnoteapp/parses/src/footnote.cpp
-
-CMakeFiles/mdparser.dir/src/footnote.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/mdparser.dir/src/footnote.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/cake_eater420/Documents/mdnoteapp/parses/src/footnote.cpp > CMakeFiles/mdparser.dir/src/footnote.cpp.i
-
-CMakeFiles/mdparser.dir/src/footnote.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/mdparser.dir/src/footnote.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/cake_eater420/Documents/mdnoteapp/parses/src/footnote.cpp -o CMakeFiles/mdparser.dir/src/footnote.cpp.s
-
 CMakeFiles/mdparser.dir/src/header.cpp.o: CMakeFiles/mdparser.dir/flags.make
 CMakeFiles/mdparser.dir/src/header.cpp.o: /home/cake_eater420/Documents/mdnoteapp/parses/src/header.cpp
 CMakeFiles/mdparser.dir/src/header.cpp.o: CMakeFiles/mdparser.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/cake_eater420/Documents/mdnoteapp/parses/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/mdparser.dir/src/header.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/cake_eater420/Documents/mdnoteapp/parses/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/mdparser.dir/src/header.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/mdparser.dir/src/header.cpp.o -MF CMakeFiles/mdparser.dir/src/header.cpp.o.d -o CMakeFiles/mdparser.dir/src/header.cpp.o -c /home/cake_eater420/Documents/mdnoteapp/parses/src/header.cpp
 
 CMakeFiles/mdparser.dir/src/header.cpp.i: cmake_force
@@ -212,7 +142,7 @@ CMakeFiles/mdparser.dir/src/header.cpp.s: cmake_force
 CMakeFiles/mdparser.dir/src/highlight.cpp.o: CMakeFiles/mdparser.dir/flags.make
 CMakeFiles/mdparser.dir/src/highlight.cpp.o: /home/cake_eater420/Documents/mdnoteapp/parses/src/highlight.cpp
 CMakeFiles/mdparser.dir/src/highlight.cpp.o: CMakeFiles/mdparser.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/cake_eater420/Documents/mdnoteapp/parses/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/mdparser.dir/src/highlight.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/cake_eater420/Documents/mdnoteapp/parses/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/mdparser.dir/src/highlight.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/mdparser.dir/src/highlight.cpp.o -MF CMakeFiles/mdparser.dir/src/highlight.cpp.o.d -o CMakeFiles/mdparser.dir/src/highlight.cpp.o -c /home/cake_eater420/Documents/mdnoteapp/parses/src/highlight.cpp
 
 CMakeFiles/mdparser.dir/src/highlight.cpp.i: cmake_force
@@ -226,7 +156,7 @@ CMakeFiles/mdparser.dir/src/highlight.cpp.s: cmake_force
 CMakeFiles/mdparser.dir/src/hrule.cpp.o: CMakeFiles/mdparser.dir/flags.make
 CMakeFiles/mdparser.dir/src/hrule.cpp.o: /home/cake_eater420/Documents/mdnoteapp/parses/src/hrule.cpp
 CMakeFiles/mdparser.dir/src/hrule.cpp.o: CMakeFiles/mdparser.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/cake_eater420/Documents/mdnoteapp/parses/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/mdparser.dir/src/hrule.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/cake_eater420/Documents/mdnoteapp/parses/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/mdparser.dir/src/hrule.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/mdparser.dir/src/hrule.cpp.o -MF CMakeFiles/mdparser.dir/src/hrule.cpp.o.d -o CMakeFiles/mdparser.dir/src/hrule.cpp.o -c /home/cake_eater420/Documents/mdnoteapp/parses/src/hrule.cpp
 
 CMakeFiles/mdparser.dir/src/hrule.cpp.i: cmake_force
@@ -237,24 +167,10 @@ CMakeFiles/mdparser.dir/src/hrule.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/mdparser.dir/src/hrule.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/cake_eater420/Documents/mdnoteapp/parses/src/hrule.cpp -o CMakeFiles/mdparser.dir/src/hrule.cpp.s
 
-CMakeFiles/mdparser.dir/src/htmlblk.cpp.o: CMakeFiles/mdparser.dir/flags.make
-CMakeFiles/mdparser.dir/src/htmlblk.cpp.o: /home/cake_eater420/Documents/mdnoteapp/parses/src/htmlblk.cpp
-CMakeFiles/mdparser.dir/src/htmlblk.cpp.o: CMakeFiles/mdparser.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/cake_eater420/Documents/mdnoteapp/parses/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/mdparser.dir/src/htmlblk.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/mdparser.dir/src/htmlblk.cpp.o -MF CMakeFiles/mdparser.dir/src/htmlblk.cpp.o.d -o CMakeFiles/mdparser.dir/src/htmlblk.cpp.o -c /home/cake_eater420/Documents/mdnoteapp/parses/src/htmlblk.cpp
-
-CMakeFiles/mdparser.dir/src/htmlblk.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/mdparser.dir/src/htmlblk.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/cake_eater420/Documents/mdnoteapp/parses/src/htmlblk.cpp > CMakeFiles/mdparser.dir/src/htmlblk.cpp.i
-
-CMakeFiles/mdparser.dir/src/htmlblk.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/mdparser.dir/src/htmlblk.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/cake_eater420/Documents/mdnoteapp/parses/src/htmlblk.cpp -o CMakeFiles/mdparser.dir/src/htmlblk.cpp.s
-
 CMakeFiles/mdparser.dir/src/image.cpp.o: CMakeFiles/mdparser.dir/flags.make
 CMakeFiles/mdparser.dir/src/image.cpp.o: /home/cake_eater420/Documents/mdnoteapp/parses/src/image.cpp
 CMakeFiles/mdparser.dir/src/image.cpp.o: CMakeFiles/mdparser.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/cake_eater420/Documents/mdnoteapp/parses/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/mdparser.dir/src/image.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/cake_eater420/Documents/mdnoteapp/parses/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/mdparser.dir/src/image.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/mdparser.dir/src/image.cpp.o -MF CMakeFiles/mdparser.dir/src/image.cpp.o.d -o CMakeFiles/mdparser.dir/src/image.cpp.o -c /home/cake_eater420/Documents/mdnoteapp/parses/src/image.cpp
 
 CMakeFiles/mdparser.dir/src/image.cpp.i: cmake_force
@@ -268,7 +184,7 @@ CMakeFiles/mdparser.dir/src/image.cpp.s: cmake_force
 CMakeFiles/mdparser.dir/src/italic.cpp.o: CMakeFiles/mdparser.dir/flags.make
 CMakeFiles/mdparser.dir/src/italic.cpp.o: /home/cake_eater420/Documents/mdnoteapp/parses/src/italic.cpp
 CMakeFiles/mdparser.dir/src/italic.cpp.o: CMakeFiles/mdparser.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/cake_eater420/Documents/mdnoteapp/parses/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/mdparser.dir/src/italic.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/cake_eater420/Documents/mdnoteapp/parses/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/mdparser.dir/src/italic.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/mdparser.dir/src/italic.cpp.o -MF CMakeFiles/mdparser.dir/src/italic.cpp.o.d -o CMakeFiles/mdparser.dir/src/italic.cpp.o -c /home/cake_eater420/Documents/mdnoteapp/parses/src/italic.cpp
 
 CMakeFiles/mdparser.dir/src/italic.cpp.i: cmake_force
@@ -282,7 +198,7 @@ CMakeFiles/mdparser.dir/src/italic.cpp.s: cmake_force
 CMakeFiles/mdparser.dir/src/link.cpp.o: CMakeFiles/mdparser.dir/flags.make
 CMakeFiles/mdparser.dir/src/link.cpp.o: /home/cake_eater420/Documents/mdnoteapp/parses/src/link.cpp
 CMakeFiles/mdparser.dir/src/link.cpp.o: CMakeFiles/mdparser.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/cake_eater420/Documents/mdnoteapp/parses/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/mdparser.dir/src/link.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/cake_eater420/Documents/mdnoteapp/parses/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/mdparser.dir/src/link.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/mdparser.dir/src/link.cpp.o -MF CMakeFiles/mdparser.dir/src/link.cpp.o.d -o CMakeFiles/mdparser.dir/src/link.cpp.o -c /home/cake_eater420/Documents/mdnoteapp/parses/src/link.cpp
 
 CMakeFiles/mdparser.dir/src/link.cpp.i: cmake_force
@@ -296,7 +212,7 @@ CMakeFiles/mdparser.dir/src/link.cpp.s: cmake_force
 CMakeFiles/mdparser.dir/src/list.cpp.o: CMakeFiles/mdparser.dir/flags.make
 CMakeFiles/mdparser.dir/src/list.cpp.o: /home/cake_eater420/Documents/mdnoteapp/parses/src/list.cpp
 CMakeFiles/mdparser.dir/src/list.cpp.o: CMakeFiles/mdparser.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/cake_eater420/Documents/mdnoteapp/parses/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/mdparser.dir/src/list.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/cake_eater420/Documents/mdnoteapp/parses/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/mdparser.dir/src/list.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/mdparser.dir/src/list.cpp.o -MF CMakeFiles/mdparser.dir/src/list.cpp.o.d -o CMakeFiles/mdparser.dir/src/list.cpp.o -c /home/cake_eater420/Documents/mdnoteapp/parses/src/list.cpp
 
 CMakeFiles/mdparser.dir/src/list.cpp.i: cmake_force
@@ -307,24 +223,10 @@ CMakeFiles/mdparser.dir/src/list.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/mdparser.dir/src/list.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/cake_eater420/Documents/mdnoteapp/parses/src/list.cpp -o CMakeFiles/mdparser.dir/src/list.cpp.s
 
-CMakeFiles/mdparser.dir/src/mathsyntx.cpp.o: CMakeFiles/mdparser.dir/flags.make
-CMakeFiles/mdparser.dir/src/mathsyntx.cpp.o: /home/cake_eater420/Documents/mdnoteapp/parses/src/mathsyntx.cpp
-CMakeFiles/mdparser.dir/src/mathsyntx.cpp.o: CMakeFiles/mdparser.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/cake_eater420/Documents/mdnoteapp/parses/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/mdparser.dir/src/mathsyntx.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/mdparser.dir/src/mathsyntx.cpp.o -MF CMakeFiles/mdparser.dir/src/mathsyntx.cpp.o.d -o CMakeFiles/mdparser.dir/src/mathsyntx.cpp.o -c /home/cake_eater420/Documents/mdnoteapp/parses/src/mathsyntx.cpp
-
-CMakeFiles/mdparser.dir/src/mathsyntx.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/mdparser.dir/src/mathsyntx.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/cake_eater420/Documents/mdnoteapp/parses/src/mathsyntx.cpp > CMakeFiles/mdparser.dir/src/mathsyntx.cpp.i
-
-CMakeFiles/mdparser.dir/src/mathsyntx.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/mdparser.dir/src/mathsyntx.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/cake_eater420/Documents/mdnoteapp/parses/src/mathsyntx.cpp -o CMakeFiles/mdparser.dir/src/mathsyntx.cpp.s
-
 CMakeFiles/mdparser.dir/src/quote.cpp.o: CMakeFiles/mdparser.dir/flags.make
 CMakeFiles/mdparser.dir/src/quote.cpp.o: /home/cake_eater420/Documents/mdnoteapp/parses/src/quote.cpp
 CMakeFiles/mdparser.dir/src/quote.cpp.o: CMakeFiles/mdparser.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/cake_eater420/Documents/mdnoteapp/parses/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/mdparser.dir/src/quote.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/cake_eater420/Documents/mdnoteapp/parses/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/mdparser.dir/src/quote.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/mdparser.dir/src/quote.cpp.o -MF CMakeFiles/mdparser.dir/src/quote.cpp.o.d -o CMakeFiles/mdparser.dir/src/quote.cpp.o -c /home/cake_eater420/Documents/mdnoteapp/parses/src/quote.cpp
 
 CMakeFiles/mdparser.dir/src/quote.cpp.i: cmake_force
@@ -338,7 +240,7 @@ CMakeFiles/mdparser.dir/src/quote.cpp.s: cmake_force
 CMakeFiles/mdparser.dir/src/strikethrough.cpp.o: CMakeFiles/mdparser.dir/flags.make
 CMakeFiles/mdparser.dir/src/strikethrough.cpp.o: /home/cake_eater420/Documents/mdnoteapp/parses/src/strikethrough.cpp
 CMakeFiles/mdparser.dir/src/strikethrough.cpp.o: CMakeFiles/mdparser.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/cake_eater420/Documents/mdnoteapp/parses/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/mdparser.dir/src/strikethrough.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/cake_eater420/Documents/mdnoteapp/parses/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/mdparser.dir/src/strikethrough.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/mdparser.dir/src/strikethrough.cpp.o -MF CMakeFiles/mdparser.dir/src/strikethrough.cpp.o.d -o CMakeFiles/mdparser.dir/src/strikethrough.cpp.o -c /home/cake_eater420/Documents/mdnoteapp/parses/src/strikethrough.cpp
 
 CMakeFiles/mdparser.dir/src/strikethrough.cpp.i: cmake_force
@@ -349,52 +251,10 @@ CMakeFiles/mdparser.dir/src/strikethrough.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/mdparser.dir/src/strikethrough.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/cake_eater420/Documents/mdnoteapp/parses/src/strikethrough.cpp -o CMakeFiles/mdparser.dir/src/strikethrough.cpp.s
 
-CMakeFiles/mdparser.dir/src/table.cpp.o: CMakeFiles/mdparser.dir/flags.make
-CMakeFiles/mdparser.dir/src/table.cpp.o: /home/cake_eater420/Documents/mdnoteapp/parses/src/table.cpp
-CMakeFiles/mdparser.dir/src/table.cpp.o: CMakeFiles/mdparser.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/cake_eater420/Documents/mdnoteapp/parses/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/mdparser.dir/src/table.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/mdparser.dir/src/table.cpp.o -MF CMakeFiles/mdparser.dir/src/table.cpp.o.d -o CMakeFiles/mdparser.dir/src/table.cpp.o -c /home/cake_eater420/Documents/mdnoteapp/parses/src/table.cpp
-
-CMakeFiles/mdparser.dir/src/table.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/mdparser.dir/src/table.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/cake_eater420/Documents/mdnoteapp/parses/src/table.cpp > CMakeFiles/mdparser.dir/src/table.cpp.i
-
-CMakeFiles/mdparser.dir/src/table.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/mdparser.dir/src/table.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/cake_eater420/Documents/mdnoteapp/parses/src/table.cpp -o CMakeFiles/mdparser.dir/src/table.cpp.s
-
-CMakeFiles/mdparser.dir/src/tasklist.cpp.o: CMakeFiles/mdparser.dir/flags.make
-CMakeFiles/mdparser.dir/src/tasklist.cpp.o: /home/cake_eater420/Documents/mdnoteapp/parses/src/tasklist.cpp
-CMakeFiles/mdparser.dir/src/tasklist.cpp.o: CMakeFiles/mdparser.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/cake_eater420/Documents/mdnoteapp/parses/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/mdparser.dir/src/tasklist.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/mdparser.dir/src/tasklist.cpp.o -MF CMakeFiles/mdparser.dir/src/tasklist.cpp.o.d -o CMakeFiles/mdparser.dir/src/tasklist.cpp.o -c /home/cake_eater420/Documents/mdnoteapp/parses/src/tasklist.cpp
-
-CMakeFiles/mdparser.dir/src/tasklist.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/mdparser.dir/src/tasklist.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/cake_eater420/Documents/mdnoteapp/parses/src/tasklist.cpp > CMakeFiles/mdparser.dir/src/tasklist.cpp.i
-
-CMakeFiles/mdparser.dir/src/tasklist.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/mdparser.dir/src/tasklist.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/cake_eater420/Documents/mdnoteapp/parses/src/tasklist.cpp -o CMakeFiles/mdparser.dir/src/tasklist.cpp.s
-
-CMakeFiles/mdparser.dir/src/toc.cpp.o: CMakeFiles/mdparser.dir/flags.make
-CMakeFiles/mdparser.dir/src/toc.cpp.o: /home/cake_eater420/Documents/mdnoteapp/parses/src/toc.cpp
-CMakeFiles/mdparser.dir/src/toc.cpp.o: CMakeFiles/mdparser.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/cake_eater420/Documents/mdnoteapp/parses/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/mdparser.dir/src/toc.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/mdparser.dir/src/toc.cpp.o -MF CMakeFiles/mdparser.dir/src/toc.cpp.o.d -o CMakeFiles/mdparser.dir/src/toc.cpp.o -c /home/cake_eater420/Documents/mdnoteapp/parses/src/toc.cpp
-
-CMakeFiles/mdparser.dir/src/toc.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/mdparser.dir/src/toc.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/cake_eater420/Documents/mdnoteapp/parses/src/toc.cpp > CMakeFiles/mdparser.dir/src/toc.cpp.i
-
-CMakeFiles/mdparser.dir/src/toc.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/mdparser.dir/src/toc.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/cake_eater420/Documents/mdnoteapp/parses/src/toc.cpp -o CMakeFiles/mdparser.dir/src/toc.cpp.s
-
 CMakeFiles/mdparser.dir/src/mdparser.cpp.o: CMakeFiles/mdparser.dir/flags.make
 CMakeFiles/mdparser.dir/src/mdparser.cpp.o: /home/cake_eater420/Documents/mdnoteapp/parses/src/mdparser.cpp
 CMakeFiles/mdparser.dir/src/mdparser.cpp.o: CMakeFiles/mdparser.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/cake_eater420/Documents/mdnoteapp/parses/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/mdparser.dir/src/mdparser.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/cake_eater420/Documents/mdnoteapp/parses/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/mdparser.dir/src/mdparser.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/mdparser.dir/src/mdparser.cpp.o -MF CMakeFiles/mdparser.dir/src/mdparser.cpp.o.d -o CMakeFiles/mdparser.dir/src/mdparser.cpp.o -c /home/cake_eater420/Documents/mdnoteapp/parses/src/mdparser.cpp
 
 CMakeFiles/mdparser.dir/src/mdparser.cpp.i: cmake_force
@@ -410,26 +270,16 @@ mdparser_OBJECTS = \
 "CMakeFiles/mdparser.dir/main.cpp.o" \
 "CMakeFiles/mdparser.dir/src/bold.cpp.o" \
 "CMakeFiles/mdparser.dir/src/boldnitalic.cpp.o" \
-"CMakeFiles/mdparser.dir/src/callouts.cpp.o" \
 "CMakeFiles/mdparser.dir/src/code.cpp.o" \
-"CMakeFiles/mdparser.dir/src/definitionlist.cpp.o" \
-"CMakeFiles/mdparser.dir/src/emojis.cpp.o" \
-"CMakeFiles/mdparser.dir/src/escape.cpp.o" \
-"CMakeFiles/mdparser.dir/src/footnote.cpp.o" \
 "CMakeFiles/mdparser.dir/src/header.cpp.o" \
 "CMakeFiles/mdparser.dir/src/highlight.cpp.o" \
 "CMakeFiles/mdparser.dir/src/hrule.cpp.o" \
-"CMakeFiles/mdparser.dir/src/htmlblk.cpp.o" \
 "CMakeFiles/mdparser.dir/src/image.cpp.o" \
 "CMakeFiles/mdparser.dir/src/italic.cpp.o" \
 "CMakeFiles/mdparser.dir/src/link.cpp.o" \
 "CMakeFiles/mdparser.dir/src/list.cpp.o" \
-"CMakeFiles/mdparser.dir/src/mathsyntx.cpp.o" \
 "CMakeFiles/mdparser.dir/src/quote.cpp.o" \
 "CMakeFiles/mdparser.dir/src/strikethrough.cpp.o" \
-"CMakeFiles/mdparser.dir/src/table.cpp.o" \
-"CMakeFiles/mdparser.dir/src/tasklist.cpp.o" \
-"CMakeFiles/mdparser.dir/src/toc.cpp.o" \
 "CMakeFiles/mdparser.dir/src/mdparser.cpp.o"
 
 # External object files for target mdparser
@@ -438,30 +288,20 @@ mdparser_EXTERNAL_OBJECTS =
 mdparser: CMakeFiles/mdparser.dir/main.cpp.o
 mdparser: CMakeFiles/mdparser.dir/src/bold.cpp.o
 mdparser: CMakeFiles/mdparser.dir/src/boldnitalic.cpp.o
-mdparser: CMakeFiles/mdparser.dir/src/callouts.cpp.o
 mdparser: CMakeFiles/mdparser.dir/src/code.cpp.o
-mdparser: CMakeFiles/mdparser.dir/src/definitionlist.cpp.o
-mdparser: CMakeFiles/mdparser.dir/src/emojis.cpp.o
-mdparser: CMakeFiles/mdparser.dir/src/escape.cpp.o
-mdparser: CMakeFiles/mdparser.dir/src/footnote.cpp.o
 mdparser: CMakeFiles/mdparser.dir/src/header.cpp.o
 mdparser: CMakeFiles/mdparser.dir/src/highlight.cpp.o
 mdparser: CMakeFiles/mdparser.dir/src/hrule.cpp.o
-mdparser: CMakeFiles/mdparser.dir/src/htmlblk.cpp.o
 mdparser: CMakeFiles/mdparser.dir/src/image.cpp.o
 mdparser: CMakeFiles/mdparser.dir/src/italic.cpp.o
 mdparser: CMakeFiles/mdparser.dir/src/link.cpp.o
 mdparser: CMakeFiles/mdparser.dir/src/list.cpp.o
-mdparser: CMakeFiles/mdparser.dir/src/mathsyntx.cpp.o
 mdparser: CMakeFiles/mdparser.dir/src/quote.cpp.o
 mdparser: CMakeFiles/mdparser.dir/src/strikethrough.cpp.o
-mdparser: CMakeFiles/mdparser.dir/src/table.cpp.o
-mdparser: CMakeFiles/mdparser.dir/src/tasklist.cpp.o
-mdparser: CMakeFiles/mdparser.dir/src/toc.cpp.o
 mdparser: CMakeFiles/mdparser.dir/src/mdparser.cpp.o
 mdparser: CMakeFiles/mdparser.dir/build.make
 mdparser: CMakeFiles/mdparser.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/cake_eater420/Documents/mdnoteapp/parses/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Linking CXX executable mdparser"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/cake_eater420/Documents/mdnoteapp/parses/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Linking CXX executable mdparser"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/mdparser.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

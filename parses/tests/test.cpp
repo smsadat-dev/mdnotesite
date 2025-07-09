@@ -31,7 +31,25 @@ int main(int argc, char const *argv[])
         "> Hello\n"
         ">> Nested\n"
         ">>> Very Nested\n"
-        "Normal line";
+        "Normal line\n"
+        "1. Food\n"
+        "2. Fast food\n"
+        "3. Slow item\n"
+        "---\n"
+        " - Food\n"
+        " - Fast food\n"
+        " - Slow item\n"
+        "---\n"
+        " * Food\n"
+        " * Fast food\n"
+        " * Slow item\n"
+        "---\n"
+        " - Food\n"
+        " - Fast food\n"
+        " - Slow item\n"
+        "==Another highlighted text for no reason==\n";
+
+    
 
     std::cout << "main() called\n Input:\n" + content;
     std::string output = 

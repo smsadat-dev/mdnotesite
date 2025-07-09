@@ -201,30 +201,6 @@ src/boldnitalic.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/mdparser.dir/build.make CMakeFiles/mdparser.dir/src/boldnitalic.cpp.s
 .PHONY : src/boldnitalic.cpp.s
 
-src/callouts.o: src/callouts.cpp.o
-.PHONY : src/callouts.o
-
-# target to build an object file
-src/callouts.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mdparser.dir/build.make CMakeFiles/mdparser.dir/src/callouts.cpp.o
-.PHONY : src/callouts.cpp.o
-
-src/callouts.i: src/callouts.cpp.i
-.PHONY : src/callouts.i
-
-# target to preprocess a source file
-src/callouts.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mdparser.dir/build.make CMakeFiles/mdparser.dir/src/callouts.cpp.i
-.PHONY : src/callouts.cpp.i
-
-src/callouts.s: src/callouts.cpp.s
-.PHONY : src/callouts.s
-
-# target to generate assembly for a file
-src/callouts.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mdparser.dir/build.make CMakeFiles/mdparser.dir/src/callouts.cpp.s
-.PHONY : src/callouts.cpp.s
-
 src/code.o: src/code.cpp.o
 .PHONY : src/code.o
 
@@ -248,102 +224,6 @@ src/code.s: src/code.cpp.s
 src/code.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/mdparser.dir/build.make CMakeFiles/mdparser.dir/src/code.cpp.s
 .PHONY : src/code.cpp.s
-
-src/definitionlist.o: src/definitionlist.cpp.o
-.PHONY : src/definitionlist.o
-
-# target to build an object file
-src/definitionlist.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mdparser.dir/build.make CMakeFiles/mdparser.dir/src/definitionlist.cpp.o
-.PHONY : src/definitionlist.cpp.o
-
-src/definitionlist.i: src/definitionlist.cpp.i
-.PHONY : src/definitionlist.i
-
-# target to preprocess a source file
-src/definitionlist.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mdparser.dir/build.make CMakeFiles/mdparser.dir/src/definitionlist.cpp.i
-.PHONY : src/definitionlist.cpp.i
-
-src/definitionlist.s: src/definitionlist.cpp.s
-.PHONY : src/definitionlist.s
-
-# target to generate assembly for a file
-src/definitionlist.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mdparser.dir/build.make CMakeFiles/mdparser.dir/src/definitionlist.cpp.s
-.PHONY : src/definitionlist.cpp.s
-
-src/emojis.o: src/emojis.cpp.o
-.PHONY : src/emojis.o
-
-# target to build an object file
-src/emojis.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mdparser.dir/build.make CMakeFiles/mdparser.dir/src/emojis.cpp.o
-.PHONY : src/emojis.cpp.o
-
-src/emojis.i: src/emojis.cpp.i
-.PHONY : src/emojis.i
-
-# target to preprocess a source file
-src/emojis.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mdparser.dir/build.make CMakeFiles/mdparser.dir/src/emojis.cpp.i
-.PHONY : src/emojis.cpp.i
-
-src/emojis.s: src/emojis.cpp.s
-.PHONY : src/emojis.s
-
-# target to generate assembly for a file
-src/emojis.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mdparser.dir/build.make CMakeFiles/mdparser.dir/src/emojis.cpp.s
-.PHONY : src/emojis.cpp.s
-
-src/escape.o: src/escape.cpp.o
-.PHONY : src/escape.o
-
-# target to build an object file
-src/escape.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mdparser.dir/build.make CMakeFiles/mdparser.dir/src/escape.cpp.o
-.PHONY : src/escape.cpp.o
-
-src/escape.i: src/escape.cpp.i
-.PHONY : src/escape.i
-
-# target to preprocess a source file
-src/escape.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mdparser.dir/build.make CMakeFiles/mdparser.dir/src/escape.cpp.i
-.PHONY : src/escape.cpp.i
-
-src/escape.s: src/escape.cpp.s
-.PHONY : src/escape.s
-
-# target to generate assembly for a file
-src/escape.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mdparser.dir/build.make CMakeFiles/mdparser.dir/src/escape.cpp.s
-.PHONY : src/escape.cpp.s
-
-src/footnote.o: src/footnote.cpp.o
-.PHONY : src/footnote.o
-
-# target to build an object file
-src/footnote.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mdparser.dir/build.make CMakeFiles/mdparser.dir/src/footnote.cpp.o
-.PHONY : src/footnote.cpp.o
-
-src/footnote.i: src/footnote.cpp.i
-.PHONY : src/footnote.i
-
-# target to preprocess a source file
-src/footnote.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mdparser.dir/build.make CMakeFiles/mdparser.dir/src/footnote.cpp.i
-.PHONY : src/footnote.cpp.i
-
-src/footnote.s: src/footnote.cpp.s
-.PHONY : src/footnote.s
-
-# target to generate assembly for a file
-src/footnote.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mdparser.dir/build.make CMakeFiles/mdparser.dir/src/footnote.cpp.s
-.PHONY : src/footnote.cpp.s
 
 src/header.o: src/header.cpp.o
 .PHONY : src/header.o
@@ -416,30 +296,6 @@ src/hrule.s: src/hrule.cpp.s
 src/hrule.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/mdparser.dir/build.make CMakeFiles/mdparser.dir/src/hrule.cpp.s
 .PHONY : src/hrule.cpp.s
-
-src/htmlblk.o: src/htmlblk.cpp.o
-.PHONY : src/htmlblk.o
-
-# target to build an object file
-src/htmlblk.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mdparser.dir/build.make CMakeFiles/mdparser.dir/src/htmlblk.cpp.o
-.PHONY : src/htmlblk.cpp.o
-
-src/htmlblk.i: src/htmlblk.cpp.i
-.PHONY : src/htmlblk.i
-
-# target to preprocess a source file
-src/htmlblk.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mdparser.dir/build.make CMakeFiles/mdparser.dir/src/htmlblk.cpp.i
-.PHONY : src/htmlblk.cpp.i
-
-src/htmlblk.s: src/htmlblk.cpp.s
-.PHONY : src/htmlblk.s
-
-# target to generate assembly for a file
-src/htmlblk.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mdparser.dir/build.make CMakeFiles/mdparser.dir/src/htmlblk.cpp.s
-.PHONY : src/htmlblk.cpp.s
 
 src/image.o: src/image.cpp.o
 .PHONY : src/image.o
@@ -537,30 +393,6 @@ src/list.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/mdparser.dir/build.make CMakeFiles/mdparser.dir/src/list.cpp.s
 .PHONY : src/list.cpp.s
 
-src/mathsyntx.o: src/mathsyntx.cpp.o
-.PHONY : src/mathsyntx.o
-
-# target to build an object file
-src/mathsyntx.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mdparser.dir/build.make CMakeFiles/mdparser.dir/src/mathsyntx.cpp.o
-.PHONY : src/mathsyntx.cpp.o
-
-src/mathsyntx.i: src/mathsyntx.cpp.i
-.PHONY : src/mathsyntx.i
-
-# target to preprocess a source file
-src/mathsyntx.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mdparser.dir/build.make CMakeFiles/mdparser.dir/src/mathsyntx.cpp.i
-.PHONY : src/mathsyntx.cpp.i
-
-src/mathsyntx.s: src/mathsyntx.cpp.s
-.PHONY : src/mathsyntx.s
-
-# target to generate assembly for a file
-src/mathsyntx.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mdparser.dir/build.make CMakeFiles/mdparser.dir/src/mathsyntx.cpp.s
-.PHONY : src/mathsyntx.cpp.s
-
 src/mdparser.o: src/mdparser.cpp.o
 .PHONY : src/mdparser.o
 
@@ -633,78 +465,6 @@ src/strikethrough.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/mdparser.dir/build.make CMakeFiles/mdparser.dir/src/strikethrough.cpp.s
 .PHONY : src/strikethrough.cpp.s
 
-src/table.o: src/table.cpp.o
-.PHONY : src/table.o
-
-# target to build an object file
-src/table.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mdparser.dir/build.make CMakeFiles/mdparser.dir/src/table.cpp.o
-.PHONY : src/table.cpp.o
-
-src/table.i: src/table.cpp.i
-.PHONY : src/table.i
-
-# target to preprocess a source file
-src/table.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mdparser.dir/build.make CMakeFiles/mdparser.dir/src/table.cpp.i
-.PHONY : src/table.cpp.i
-
-src/table.s: src/table.cpp.s
-.PHONY : src/table.s
-
-# target to generate assembly for a file
-src/table.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mdparser.dir/build.make CMakeFiles/mdparser.dir/src/table.cpp.s
-.PHONY : src/table.cpp.s
-
-src/tasklist.o: src/tasklist.cpp.o
-.PHONY : src/tasklist.o
-
-# target to build an object file
-src/tasklist.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mdparser.dir/build.make CMakeFiles/mdparser.dir/src/tasklist.cpp.o
-.PHONY : src/tasklist.cpp.o
-
-src/tasklist.i: src/tasklist.cpp.i
-.PHONY : src/tasklist.i
-
-# target to preprocess a source file
-src/tasklist.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mdparser.dir/build.make CMakeFiles/mdparser.dir/src/tasklist.cpp.i
-.PHONY : src/tasklist.cpp.i
-
-src/tasklist.s: src/tasklist.cpp.s
-.PHONY : src/tasklist.s
-
-# target to generate assembly for a file
-src/tasklist.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mdparser.dir/build.make CMakeFiles/mdparser.dir/src/tasklist.cpp.s
-.PHONY : src/tasklist.cpp.s
-
-src/toc.o: src/toc.cpp.o
-.PHONY : src/toc.o
-
-# target to build an object file
-src/toc.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mdparser.dir/build.make CMakeFiles/mdparser.dir/src/toc.cpp.o
-.PHONY : src/toc.cpp.o
-
-src/toc.i: src/toc.cpp.i
-.PHONY : src/toc.i
-
-# target to preprocess a source file
-src/toc.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mdparser.dir/build.make CMakeFiles/mdparser.dir/src/toc.cpp.i
-.PHONY : src/toc.cpp.i
-
-src/toc.s: src/toc.cpp.s
-.PHONY : src/toc.s
-
-# target to generate assembly for a file
-src/toc.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mdparser.dir/build.make CMakeFiles/mdparser.dir/src/toc.cpp.s
-.PHONY : src/toc.cpp.s
-
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -723,24 +483,9 @@ help:
 	@echo "... src/boldnitalic.o"
 	@echo "... src/boldnitalic.i"
 	@echo "... src/boldnitalic.s"
-	@echo "... src/callouts.o"
-	@echo "... src/callouts.i"
-	@echo "... src/callouts.s"
 	@echo "... src/code.o"
 	@echo "... src/code.i"
 	@echo "... src/code.s"
-	@echo "... src/definitionlist.o"
-	@echo "... src/definitionlist.i"
-	@echo "... src/definitionlist.s"
-	@echo "... src/emojis.o"
-	@echo "... src/emojis.i"
-	@echo "... src/emojis.s"
-	@echo "... src/escape.o"
-	@echo "... src/escape.i"
-	@echo "... src/escape.s"
-	@echo "... src/footnote.o"
-	@echo "... src/footnote.i"
-	@echo "... src/footnote.s"
 	@echo "... src/header.o"
 	@echo "... src/header.i"
 	@echo "... src/header.s"
@@ -750,9 +495,6 @@ help:
 	@echo "... src/hrule.o"
 	@echo "... src/hrule.i"
 	@echo "... src/hrule.s"
-	@echo "... src/htmlblk.o"
-	@echo "... src/htmlblk.i"
-	@echo "... src/htmlblk.s"
 	@echo "... src/image.o"
 	@echo "... src/image.i"
 	@echo "... src/image.s"
@@ -765,9 +507,6 @@ help:
 	@echo "... src/list.o"
 	@echo "... src/list.i"
 	@echo "... src/list.s"
-	@echo "... src/mathsyntx.o"
-	@echo "... src/mathsyntx.i"
-	@echo "... src/mathsyntx.s"
 	@echo "... src/mdparser.o"
 	@echo "... src/mdparser.i"
 	@echo "... src/mdparser.s"
@@ -777,15 +516,6 @@ help:
 	@echo "... src/strikethrough.o"
 	@echo "... src/strikethrough.i"
 	@echo "... src/strikethrough.s"
-	@echo "... src/table.o"
-	@echo "... src/table.i"
-	@echo "... src/table.s"
-	@echo "... src/tasklist.o"
-	@echo "... src/tasklist.i"
-	@echo "... src/tasklist.s"
-	@echo "... src/toc.o"
-	@echo "... src/toc.i"
-	@echo "... src/toc.s"
 .PHONY : help
 
 

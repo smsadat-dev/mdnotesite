@@ -39,8 +39,11 @@ std::string parseLine(std::string line)
     line = parseStrike(line);
     std::cout << "\n10th output:\n " + line; // debug
 
-    line = parseHeaders(line);       // Wrap it in header if needed
+    line = parseList(line);
     std::cout << "\n11th output:\n " + line; // debug
+
+    line = parseHeaders(line);       // Wrap it in header if needed
+    std::cout << "\n12th output:\n " + line; // debug
     if (line.empty()) return "";
     return line;
 }
