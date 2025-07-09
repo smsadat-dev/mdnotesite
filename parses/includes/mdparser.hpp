@@ -13,9 +13,12 @@ std::string parseBoldText(std::string content);
 std::string parseBoldandItalic(std::string content);
 std::string parseCode(std::string content);
 std::string parseHeaders(std::string content);
+std::string parseHighlight(std::string content);
 std::string parseHrules(std::string content);
-std::string imageParser(std::string content);
-std::string parseLink(std::string content);
 std::string parseItalicText(std::string content);
+std::string parseLink(std::string content);
+std::string imageParser(std::string content);
+std::string parseQuote(std::string content);
+std::string parseStrike(std::string content);
 
 #endif // MDPARSER_HPP

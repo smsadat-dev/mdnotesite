@@ -16,6 +16,8 @@ int main(int argc, char const *argv[])
         "## Subheading __This is bold text__ \n"
         "**This is too**\n" 
         "***\n"
+        "==Highlighted text==\n"
+        "~~Cut~~\n"
         "### Subsubheading\n"
         "*This is italic*\n"
         "_This is also italic_\n"
@@ -25,7 +27,11 @@ int main(int argc, char const *argv[])
         "***another bold italic text***\n"
         "---\n"
         "![A cute cat](https://example.com/cat.jpg)\n"
-        "[OpenAI](https://openai.com \"OpenAI's website\")\n";
+        "[OpenAI](https://openai.com \"OpenAI's website\")\n"
+        "> Hello\n"
+        ">> Nested\n"
+        ">>> Very Nested\n"
+        "Normal line";
 
     std::cout << "main() called\n Input:\n" + content;
     std::string output = 

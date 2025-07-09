@@ -30,8 +30,17 @@ std::string parseLine(std::string line)
     line = parseLink(line);
     std::cout << "\n6th output:\n " + line; // debug
 
-    line = parseHeaders(line);       // Wrap it in header if needed
+    line = parseQuote(line);
     std::cout << "\n8th output:\n " + line; // debug
+
+    line = parseHighlight(line);
+    std::cout << "\n9th output:\n " + line; // debug
+
+    line = parseStrike(line);
+    std::cout << "\n10th output:\n " + line; // debug
+
+    line = parseHeaders(line);       // Wrap it in header if needed
+    std::cout << "\n11th output:\n " + line; // debug
     if (line.empty()) return "";
     return line;
 }
