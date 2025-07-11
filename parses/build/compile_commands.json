@@ -1,8 +1,8 @@
 [
 {
   "directory": "/home/cake_eater420/Documents/mdnoteapp/parses/build",
-  "command": "/usr/bin/c++  -I/home/cake_eater420/Documents/mdnoteapp/parses/includes -g -std=gnu++17 -o CMakeFiles/mdparser.dir/main.cpp.o -c /home/cake_eater420/Documents/mdnoteapp/parses/main.cpp",
-  "file": "/home/cake_eater420/Documents/mdnoteapp/parses/main.cpp"
+  "command": "/usr/bin/c++  -I/home/cake_eater420/Documents/mdnoteapp/parses/includes -g -std=gnu++17 -o CMakeFiles/mdparser.dir/tests/main.cpp.o -c /home/cake_eater420/Documents/mdnoteapp/parses/tests/main.cpp",
+  "file": "/home/cake_eater420/Documents/mdnoteapp/parses/tests/main.cpp"
 },
 {
   "directory": "/home/cake_eater420/Documents/mdnoteapp/parses/build",

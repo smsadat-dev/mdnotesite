@@ -6,7 +6,7 @@ set(CMAKE_CXX_STANDARD 17)
 include_directories(includes)
 
 add_executable(mdparser 
-          main.cpp 
+          tests/main.cpp
           src/bold.cpp 
           src/boldnitalic.cpp
           src/code.cpp

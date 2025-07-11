@@ -129,30 +129,6 @@ mdparser/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/mdparser.dir/build.make CMakeFiles/mdparser.dir/build
 .PHONY : mdparser/fast
 
-main.o: main.cpp.o
-.PHONY : main.o
-
-# target to build an object file
-main.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mdparser.dir/build.make CMakeFiles/mdparser.dir/main.cpp.o
-.PHONY : main.cpp.o
-
-main.i: main.cpp.i
-.PHONY : main.i
-
-# target to preprocess a source file
-main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mdparser.dir/build.make CMakeFiles/mdparser.dir/main.cpp.i
-.PHONY : main.cpp.i
-
-main.s: main.cpp.s
-.PHONY : main.s
-
-# target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mdparser.dir/build.make CMakeFiles/mdparser.dir/main.cpp.s
-.PHONY : main.cpp.s
-
 src/bold.o: src/bold.cpp.o
 .PHONY : src/bold.o
 
@@ -465,6 +441,30 @@ src/strikethrough.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/mdparser.dir/build.make CMakeFiles/mdparser.dir/src/strikethrough.cpp.s
 .PHONY : src/strikethrough.cpp.s
 
+tests/main.o: tests/main.cpp.o
+.PHONY : tests/main.o
+
+# target to build an object file
+tests/main.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/mdparser.dir/build.make CMakeFiles/mdparser.dir/tests/main.cpp.o
+.PHONY : tests/main.cpp.o
+
+tests/main.i: tests/main.cpp.i
+.PHONY : tests/main.i
+
+# target to preprocess a source file
+tests/main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/mdparser.dir/build.make CMakeFiles/mdparser.dir/tests/main.cpp.i
+.PHONY : tests/main.cpp.i
+
+tests/main.s: tests/main.cpp.s
+.PHONY : tests/main.s
+
+# target to generate assembly for a file
+tests/main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/mdparser.dir/build.make CMakeFiles/mdparser.dir/tests/main.cpp.s
+.PHONY : tests/main.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -474,9 +474,6 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... mdparser"
-	@echo "... main.o"
-	@echo "... main.i"
-	@echo "... main.s"
 	@echo "... src/bold.o"
 	@echo "... src/bold.i"
 	@echo "... src/bold.s"
@@ -516,6 +513,9 @@ help:
 	@echo "... src/strikethrough.o"
 	@echo "... src/strikethrough.i"
 	@echo "... src/strikethrough.s"
+	@echo "... tests/main.o"
+	@echo "... tests/main.i"
+	@echo "... tests/main.s"
 .PHONY : help
 
 

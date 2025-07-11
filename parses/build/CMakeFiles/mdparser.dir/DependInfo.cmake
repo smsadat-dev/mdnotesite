@@ -8,7 +8,6 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/cake_eater420/Documents/mdnoteapp/parses/main.cpp" "CMakeFiles/mdparser.dir/main.cpp.o" "gcc" "CMakeFiles/mdparser.dir/main.cpp.o.d"
   "/home/cake_eater420/Documents/mdnoteapp/parses/src/bold.cpp" "CMakeFiles/mdparser.dir/src/bold.cpp.o" "gcc" "CMakeFiles/mdparser.dir/src/bold.cpp.o.d"
   "/home/cake_eater420/Documents/mdnoteapp/parses/src/boldnitalic.cpp" "CMakeFiles/mdparser.dir/src/boldnitalic.cpp.o" "gcc" "CMakeFiles/mdparser.dir/src/boldnitalic.cpp.o.d"
   "/home/cake_eater420/Documents/mdnoteapp/parses/src/code.cpp" "CMakeFiles/mdparser.dir/src/code.cpp.o" "gcc" "CMakeFiles/mdparser.dir/src/code.cpp.o.d"
@@ -22,6 +21,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/cake_eater420/Documents/mdnoteapp/parses/src/mdparser.cpp" "CMakeFiles/mdparser.dir/src/mdparser.cpp.o" "gcc" "CMakeFiles/mdparser.dir/src/mdparser.cpp.o.d"
   "/home/cake_eater420/Documents/mdnoteapp/parses/src/quote.cpp" "CMakeFiles/mdparser.dir/src/quote.cpp.o" "gcc" "CMakeFiles/mdparser.dir/src/quote.cpp.o.d"
   "/home/cake_eater420/Documents/mdnoteapp/parses/src/strikethrough.cpp" "CMakeFiles/mdparser.dir/src/strikethrough.cpp.o" "gcc" "CMakeFiles/mdparser.dir/src/strikethrough.cpp.o.d"
+  "/home/cake_eater420/Documents/mdnoteapp/parses/tests/main.cpp" "CMakeFiles/mdparser.dir/tests/main.cpp.o" "gcc" "CMakeFiles/mdparser.dir/tests/main.cpp.o.d"
   )
 
 # Targets to which this target links.

@@ -9,6 +9,9 @@ std::string parseLine(std::string line)
 {
     std::cout << "\n0th output:\n " + line; // debug
 
+    line = parseList(line);
+    std::cout << "\n11th output:\n " + line; // debug
+
     line = parseHrules(line);
     std::cout << "\n7th output:\n " + line; // debug
 

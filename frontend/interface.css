@@ -1,0 +1,188 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(33, 32, 32);
+    background-image: url(assets/bg.png);
+    background-repeat: no-repeat;
+    background-position: 550px 200px;
+}
+
+.describe-container {
+    position: relative;
+    top: 510px;
+    left: 1020px;
+    font-weight: 700;
+}
+
+#describe-text {
+    color: rgb(212, 212, 212);
+}
+
+.header-container {
+    height: 50px;
+    background-color: black;
+    top: 0;
+    position: sticky;
+}
+
+#header-text {
+    position: relative;
+    top: 5px;
+    color: aliceblue;
+    text-decoration: none;
+    left: 800px;
+    font-size: 30px;
+    font-weight: 200;
+    font-family: monospace;
+}
+
+.header-elements {
+    display: flex;
+    padding-top: 10px;
+    padding-left: 15px;
+    gap: 7px;
+}
+
+#id-undo {
+    width: 25px;
+    height: 25px;
+    background-image: url(assets/ui/undo.svg);
+    cursor: pointer;
+}
+
+#id-redo {
+    width: 25px;
+    height: 25px;
+    background-image: url(assets/ui/redo.svg);
+    cursor: pointer;
+}
+
+#id-bold {
+    width: 25px;
+    height: 25px;
+    background-image: url(assets/ui/bold.svg);
+    cursor: pointer;
+}
+
+#id-italic {
+    width: 25px;
+    height: 25px;
+    background-image: url(assets/ui/italic.svg);
+    cursor: pointer;
+}
+
+#id-header {
+    width: 25px;
+    height: 25px;
+    background-image: url(assets/ui/title.svg);
+    cursor: pointer;
+}
+
+#id-strikethrough {
+    width: 25px;
+    height: 25px;
+    background-image: url(assets/ui/strikethrough.svg); 
+    cursor: pointer;  
+}
+
+#id-ulist {
+    width: 25px;
+    height: 25px;
+    background-image: url(assets/ui/ulist.svg); 
+    cursor: pointer;  
+}
+
+#id-olist {
+    width: 25px;
+    height: 25px;
+    background-image: url(assets/ui/olist.svg); 
+    cursor: pointer;  
+}
+
+#id-checklist {
+    width: 25px;
+    height: 25px;
+    background-image: url(assets/ui/checklist.svg);
+    cursor: pointer;
+}
+
+#id-blockquote {
+    width: 25px;
+    height: 25px;
+    background-image: url(assets/ui/blockquote.svg);
+    cursor: pointer;
+}
+
+#id-codetext {
+    width: 25px;
+    height: 25px;
+    background-image: url(assets/ui/codetext.svg);
+    cursor: pointer;
+}
+
+#id-table {
+    width: 25px;
+    height: 25px;
+    background-image: url(assets/ui/table.svg);
+    cursor: pointer;
+}
+
+#id-table-of-content {
+    width: 25px;
+    height: 25px;
+    background-image: url(assets/ui/toc.svg);
+    cursor: pointer;   
+}
+
+#id-image {
+    width: 25px;
+    height: 25px;
+    background-image: url(assets/ui/image.svg);
+    cursor: pointer;
+}
+
+#id-link {
+    width: 25px;
+    height: 25px;
+    background-image: url(assets/ui/link.svg);
+    cursor: pointer;
+}
+
+main {
+    display: flex;
+}
+
+#id-md-editor {
+    padding: 20px;
+    height: 1000px;
+    width: 950px;
+    resize: none;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.md-editor-options {
+    height: 1000px;
+    width: 20px;
+    background-color: #e1e1e1;
+}
+
+.md-editor-outputbox {
+    width: 950px;
+    height: 1000px;
+    background-color:#e1e1e1;  /* optional: to visualize the box */
+    padding: 10px;
+    box-sizing: border-box;   
+}
+
+#md-editor-output {
+    padding: 20px;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+}

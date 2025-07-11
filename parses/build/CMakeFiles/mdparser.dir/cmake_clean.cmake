@@ -1,6 +1,4 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/mdparser.dir/main.cpp.o"
-  "CMakeFiles/mdparser.dir/main.cpp.o.d"
   "CMakeFiles/mdparser.dir/src/bold.cpp.o"
   "CMakeFiles/mdparser.dir/src/bold.cpp.o.d"
   "CMakeFiles/mdparser.dir/src/boldnitalic.cpp.o"
@@ -27,6 +25,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/mdparser.dir/src/quote.cpp.o.d"
   "CMakeFiles/mdparser.dir/src/strikethrough.cpp.o"
   "CMakeFiles/mdparser.dir/src/strikethrough.cpp.o.d"
+  "CMakeFiles/mdparser.dir/tests/main.cpp.o"
+  "CMakeFiles/mdparser.dir/tests/main.cpp.o.d"
   "mdparser"
   "mdparser.pdb"
 )

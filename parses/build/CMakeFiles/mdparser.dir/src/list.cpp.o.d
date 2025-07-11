@@ -187,5 +187,5 @@ CMakeFiles/mdparser.dir/src/list.cpp.o: \
  /usr/include/c++/12/bits/regex_compiler.tcc \
  /usr/include/c++/12/bits/regex.h /usr/include/c++/12/bits/regex.tcc \
  /usr/include/c++/12/bits/regex_executor.h \
- /usr/include/c++/12/bits/regex_executor.tcc \
+ /usr/include/c++/12/bits/regex_executor.tcc /usr/include/c++/12/vector \
  /home/cake_eater420/Documents/mdnoteapp/parses/includes/mdparser.hpp

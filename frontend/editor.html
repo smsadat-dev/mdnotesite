@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>App</title>
+    <link rel="icon" type="image/x-icon" href="assets/ico/logo.png">
+    <link rel="stylesheet" href="interface.css">
+</head>
+<body>
+    <div class="header-container">
+        <header>
+            <div class="header-elements">
+                <div id="id-undo" title="undo"></div>
+                <div id="id-redo" title="redo"></div>
+                <div id="id-bold" title="bold text"></div>
+                <div id="id-italic" title="italic text"></div>
+                <div id="id-header" title="heading text"></div>
+                <div id="id-strikethrough" title="strikethrough text"></div>
+                <div id="id-ulist" title="unordered list"></div>
+                <div id="id-olist" title="ordered list"></div>
+                <div id="id-checklist" title="checklist"></div>
+                <div id="id-blockquote" title="blockquote"></div>
+                <div id="id-codetext" title="code text"></div>
+                <div id="id-table" title="table"></div>
+                <div id="id-table-of-content" title="toc"></div>
+                <div id="id-link" title="url link"></div>
+                <div id="id-image" title="image link"></div>
+            </div>
+        </header>
+    </div>
+    <main>
+        <div class="md-editor-container">
+            <textarea name="md-editor" id="id-md-editor"></textarea>
+        </div>
+        <div class="md-editor-options"></div>
+        <div class="md-editor-outputbox">
+            <output id="md-editor-output"></output>
+        </div>
+    </main>
+    <script src="main.js"></script>
+</body>
+</html>
